@@ -7,4 +7,13 @@
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-AntennaNaStolbe&color=green" />
 </p>
 
-![Statistic](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntennaNaStolbe&theme=github_dark)
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+  <p>
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&layout=compact&theme=dark" />  
+   <br>
+   <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BaggerFast&show_icons=true&theme=dark" />
+   <br>
+   <img src="https://metrics.lecoq.io/baggerfast" />
+  </p>
+</details>
