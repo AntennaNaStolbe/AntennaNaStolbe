@@ -1,4 +1,4 @@
-#![Header](assets/antenna_na_stolbe_fon_new.svg)
+<img src="assets/antenna_na_stolbe_fon_new.svg" alt="AntennaNaStolbe">
 
 <h3 align="center">Programmer, developer and a bit of a designer</h3>
 
