@@ -1,11 +1,12 @@
 <img src="assets/antenna_na_stolbe_fon_new.svg" alt="AntennaNaStolbe">
 
-<h3 align="center">Tester, a bit of a designer, and a Smart Home enthusiast</h3>
-<h3 align="center">👨‍💻 QA Engineer with experience in manual testing.</h3>
-<h3 align="center">🎨 Passionate about UI/UX design and creating user-friendly interfaces.</h3>
-<h3 align="center">🏠 Currently exploring and working on Smart Home technologies and automation.</h3>
-<h3 align="center">🔧 Always learning and exploring new tools and technologies.</h3>
-<h3 align="center">💡 Open to collaboration on interesting projects!</h3>
+<h2 align="center">Tester, a bit of a designer, and a Smart Home enthusiast</h2>
+
+<h5 align="left">👨‍💻 QA Engineer with experience in manual testing.</h5>
+<h5 align="left">🏠 Currently exploring and working on Smart Home technologies and automation.</h5>
+<h5 align="left">🎨 Passionate about UI/UX design and creating user-friendly interfaces.</h5>
+<h5 align="left">🔧 Always learning and exploring new tools and technologies.</h5>
+<h5 align="left">💡 Open to collaboration on interesting projects!</h5>
 
 
 
